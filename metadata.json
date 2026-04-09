@@ -1,0 +1,5 @@
+{
+  "name": "ScamSentinel AI",
+  "description": "Behavioral and financial scam intelligence engine for West Africa. Analyzes text, receipts, and voice notes to detect fraud.",
+  "requestFramePermissions": ["microphone"]
+}
